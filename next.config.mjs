@@ -1,9 +1,5 @@
 /** @type {import('next').NextConfig} */
 
-const nextConfig = {
-    server: {
-        port: 3001,
-    }
-}
+const nextConfig = {}
 
 export default nextConfig;
