@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@keyframes move-x {
+    0% {
+        transform: translateX(var(--move-x-from));
+    }
+    to {
+        transform: translateX(var(--move-x-to));
+    }
+}
+
+body {
+    font-family: system-ui, sans-serif;
+}

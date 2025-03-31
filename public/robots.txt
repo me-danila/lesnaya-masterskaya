@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /*
+Allow: /*.js
+Allow: /*.css
+
+Disallow: /cgi-bin/
+Disallow: /cdn-cgi/
+Disallow: /search/
+Disallow: /?s=*
+Disallow: /*?*
+
+Sitemap: https://lesnaya-masterskaya.ru/sitemap_index.xml
